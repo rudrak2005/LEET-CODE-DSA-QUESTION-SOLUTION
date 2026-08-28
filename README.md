@@ -120,14 +120,14 @@ If this repo helps you in your interview prep, don’t forget to **star** ⭐ th
 
 ## 1. Arrays & Hashing
 
-- [ ] **001.** [1] Two Sum — **Easy**
+- [x] **001.** [1] Two Sum — **Easy**
 - [ ] **002.** [15] 3Sum — **Medium**
 - [ ] **003.** [18] 4Sum — **Medium**
-- [ ] **004.** [26] Remove Duplicates from Sorted Array — **Easy**
-- [ ] **005.** [27] Remove Element — **Easy**
-- [ ] **006.** [31] Next Permutation — **Medium**
+- [x] **004.** [26] Remove Duplicates from Sorted Array — **Easy**
+- [x] **005.** [27] Remove Element — **Easy**
+- [x] **006.** [31] Next Permutation — **Medium**
 - [ ] **007.** [36] Valid Sudoku — **Medium**
-- [ ] **008.** [41] First Missing Positive — **Hard**
+- [x] **008.** [41] First Missing Positive — **Hard**
 - [ ] **009.** [48] Rotate Image — **Medium**
 - [ ] **010.** [49] Group Anagrams — **Medium**
 - [ ] **011.** [53] Maximum Subarray — **Medium**
