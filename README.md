@@ -1,20 +1,20 @@
-#  Complete 400 DSA Questions Roadmap
+#  Complete 410 DSA Questions Roadmap
 
-> **Beginner  Advanced | Pattern-Wise | Number-Wise | Placement & Interview Preparation**
+> **Beginner to Advanced | Pattern-Wise | Number-Wise | Placement & Interview Preparation**
 
-**Total Questions:** 400  
-**Order:** | Basic | Easy | Medium | Hard  |
+**Total Questions:** 410  
+**Order:**| Easy | Medium | Hard  |
 **Recommended Language:** C++17  
 **Goal:** Pattern Recognition + Placement + Coding Interviews
 
-# 🚀 400 Days DSA Challenge
+# 🚀 410 Days DSA Challenge
 
-Solving one DSA problem every day for 400 days.
+Solving one  DSA problem every day for 410 days.
 
 🎯 Focus: Pattern Recognition & Problem Solving
 💻 Language: C++17
 📚 Platform: GeeksforGeeks
-🔥 Challenge: 400 Days • 400 Problems • Consistency
+🔥 Challenge: 410 Days • 400 Problems • Consistency
 
 ---
 # 🏢 Companies That Ask DSA Questions
@@ -91,495 +91,497 @@ If this repo helps you in your interview prep, don’t forget to **star** ⭐ th
 - [ ] Phase 2  Core Interview Patterns
 - [ ] Phase 3  Trees and Graphs
 - [ ] Phase 4  Advanced DSA
-- [ ] 400 Questions Completed
+- [ ] 410 Questions Completed
+      
+## 📊 Difficulty
 
+- **Easy:** 86
+- **Medium:** 267
+- **Hard:** 57
+- **Total:** **410**
+---
+- **Arrays & Hashing:** 45
+- **Strings:** 28
+- **Two Pointers & Sliding Window:** 29
+- **Binary Search:** 19
+- **Sorting & Intervals:** 12
+- **Linked List:** 25
+- **Stack & Queue:** 22
+- **Trees & BST:** 55
+- **Heap & Priority Queue:** 14
+- **Graphs:** 40
+- **Backtracking & Recursion:** 20
+- **Greedy:** 13
+- **Dynamic Programming:** 57
+- **Bit Manipulation:** 7
+- **Math & Number Theory:** 9
+- **Trie, Design & Advanced Data Structures:** 15
 ---
 
+## 1. Arrays & Hashing
 
-# Phase 1: DSA Foundations
+- [ ] **001.** [1] Two Sum — **Easy**
+- [ ] **002.** [15] 3Sum — **Medium**
+- [ ] **003.** [18] 4Sum — **Medium**
+- [ ] **004.** [26] Remove Duplicates from Sorted Array — **Easy**
+- [ ] **005.** [27] Remove Element — **Easy**
+- [ ] **006.** [31] Next Permutation — **Medium**
+- [ ] **007.** [36] Valid Sudoku — **Medium**
+- [ ] **008.** [41] First Missing Positive — **Hard**
+- [ ] **009.** [48] Rotate Image — **Medium**
+- [ ] **010.** [49] Group Anagrams — **Medium**
+- [ ] **011.** [53] Maximum Subarray — **Medium**
+- [ ] **012.** [54] Spiral Matrix — **Medium**
+- [ ] **013.** [56] Merge Intervals — **Medium**
+- [ ] **014.** [57] Insert Interval — **Medium**
+- [ ] **015.** [59] Spiral Matrix II — **Medium**
+- [ ] **016.** [66] Plus One — **Easy**
+- [ ] **017.** [73] Set Matrix Zeroes — **Medium**
+- [ ] **018.** [75] Sort Colors — **Medium**
+- [ ] **019.** [80] Remove Duplicates from Sorted Array II — **Medium**
+- [ ] **020.** [88] Merge Sorted Array — **Easy**
+- [ ] **021.** [118] Pascal's Triangle — **Easy**
+- [ ] **022.** [119] Pascal's Triangle II — **Easy**
+- [ ] **023.** [121] Best Time to Buy and Sell Stock — **Easy**
+- [ ] **024.** [122] Best Time to Buy and Sell Stock II — **Medium**
+- [ ] **025.** [128] Longest Consecutive Sequence — **Medium**
+- [ ] **026.** [136] Single Number — **Easy**
+- [ ] **027.** [137] Single Number II — **Medium**
+- [ ] **028.** [169] Majority Element — **Easy**
+- [ ] **029.** [189] Rotate Array — **Medium**
+- [ ] **030.** [204] Count Primes — **Medium**
+- [ ] **031.** [217] Contains Duplicate — **Easy**
+- [ ] **032.** [219] Contains Duplicate II — **Easy**
+- [ ] **033.** [220] Contains Duplicate III — **Hard**
+- [ ] **034.** [228] Summary Ranges — **Easy**
+- [ ] **035.** [229] Majority Element II — **Medium**
+- [ ] **036.** [238] Product of Array Except Self — **Medium**
+- [ ] **037.** [239] Sliding Window Maximum — **Hard**
+- [ ] **038.** [242] Valid Anagram — **Easy**
+- [ ] **039.** [260] Single Number III — **Medium**
+- [ ] **040.** [268] Missing Number — **Easy**
+- [ ] **041.** [274] H-Index — **Medium**
+- [ ] **042.** [283] Move Zeroes — **Easy**
+- [ ] **043.** [289] Game of Life — **Medium**
+- [ ] **044.** [349] Intersection of Two Arrays — **Easy**
+- [ ] **045.** [350] Intersection of Two Arrays II — **Easy**
 
+## 46. Strings
+
+- [ ] **046.** [3] Longest Substring Without Repeating Characters — **Medium**
+- [ ] **047.** [5] Longest Palindromic Substring — **Medium**
+- [ ] **048.** [6] Zigzag Conversion — **Medium**
+- [ ] **049.** [8] String to Integer (atoi) — **Medium**
+- [ ] **050.** [9] Palindrome Number — **Easy**
+- [ ] **051.** [12] Integer to Roman — **Medium**
+- [ ] **052.** [13] Roman to Integer — **Easy**
+- [ ] **053.** [14] Longest Common Prefix — **Easy**
+- [ ] **054.** [20] Valid Parentheses — **Easy**
+- [ ] **055.** [28] Find the Index of the First Occurrence in a String — **Easy**
+- [ ] **056.** [38] Count and Say — **Medium**
+- [ ] **057.** [43] Multiply Strings — **Medium**
+- [ ] **058.** [58] Length of Last Word — **Easy**
+- [ ] **059.** [67] Add Binary — **Easy**
+- [ ] **060.** [68] Text Justification — **Hard**
+- [ ] **061.** [71] Simplify Path — **Medium**
+- [ ] **062.** [93] Restore IP Addresses — **Medium**
+- [ ] **063.** [125] Valid Palindrome — **Easy**
+- [ ] **064.** [151] Reverse Words in a String — **Medium**
+- [ ] **065.** [161] One Edit Distance — **Medium**
+- [ ] **066.** [205] Isomorphic Strings — **Easy**
+- [ ] **067.** [290] Word Pattern — **Easy**
+- [ ] **068.** [344] Reverse String — **Easy**
+- [ ] **069.** [345] Reverse Vowels of a String — **Easy**
+- [ ] **070.** [387] First Unique Character in a String — **Easy**
+- [ ] **071.** [392] Is Subsequence — **Easy**
+- [ ] **072.** [394] Decode String — **Medium**
+- [ ] **073.** [415] Add Strings — **Easy**
+
+## 74. Two Pointers & Sliding Window
+
+- [ ] **074.** [11] Container With Most Water — **Medium**
+- [ ] **075.** [16] 3Sum Closest — **Medium**
+- [ ] **076.** [42] Trapping Rain Water — **Hard**
+- [ ] **077.** [76] Minimum Window Substring — **Hard**
+- [ ] **078.** [159] Longest Substring with At Most Two Distinct Characters — **Medium**
+- [ ] **079.** [167] Two Sum II - Input Array Is Sorted — **Medium**
+- [ ] **080.** [209] Minimum Size Subarray Sum — **Medium**
+- [ ] **081.** [240] Search a 2D Matrix II — **Medium**
+- [ ] **082.** [259] 3Sum Smaller — **Medium**
+- [ ] **083.** [340] Longest Substring with At Most K Distinct Characters — **Medium**
+- [ ] **084.** [424] Longest Repeating Character Replacement — **Medium**
+- [ ] **085.** [438] Find All Anagrams in a String — **Medium**
+- [ ] **086.** [487] Max Consecutive Ones II — **Medium**
+- [ ] **087.** [643] Maximum Average Subarray I — **Easy**
+- [ ] **088.** [713] Subarray Product Less Than K — **Medium**
+- [ ] **089.** [904] Fruit Into Baskets — **Medium**
+- [ ] **090.** [930] Binary Subarrays With Sum — **Medium**
+- [ ] **091.** [978] Longest Turbulent Subarray — **Medium**
+- [ ] **092.** [992] Subarrays with K Different Integers — **Hard**
+- [ ] **093.** [1004] Max Consecutive Ones III — **Medium**
+- [ ] **094.** [1011] Capacity To Ship Packages Within D Days — **Medium**
+- [ ] **095.** [1055] Shortest Way to Form String — **Medium**
+- [ ] **096.** [1100] Find K-Length Substrings With No Repeated Characters — **Medium**
+- [ ] **097.** [1343] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold — **Medium**
+- [ ] **098.** [1658] Minimum Operations to Reduce X to Zero — **Medium**
+- [ ] **099.** [1838] Frequency of the Most Frequent Element — **Medium**
+- [ ] **100.** [2099] Find Subsequence of Length K With the Largest Sum — **Easy**
+- [ ] **101.** [2461] Maximum Sum of Distinct Subarrays With Length K — **Medium**
+- [ ] **102.** [875] Koko Eating Bananas — **Medium**
+
+## 103. Binary Search
+
+- [ ] **103.** [33] Search in Rotated Sorted Array — **Medium**
+- [ ] **104.** [34] Find First and Last Position of Element in Sorted Array — **Medium**
+- [ ] **105.** [35] Search Insert Position — **Easy**
+- [ ] **106.** [69] Sqrt(x) — **Easy**
+- [ ] **107.** [74] Search a 2D Matrix — **Medium**
+- [ ] **108.** [81] Search in Rotated Sorted Array II — **Medium**
+- [ ] **109.** [153] Find Minimum in Rotated Sorted Array — **Medium**
+- [ ] **110.** [154] Find Minimum in Rotated Sorted Array II — **Hard**
+- [ ] **111.** [162] Find Peak Element — **Medium**
+- [ ] **112.** [278] First Bad Version — **Easy**
+- [ ] **113.** [287] Find the Duplicate Number — **Medium**
+- [ ] **114.** [367] Valid Perfect Square — **Easy**
+- [ ] **115.** [374] Guess Number Higher or Lower — **Easy**
+- [ ] **116.** [475] Heaters — **Medium**
+- [ ] **117.** [658] Find K Closest Elements — **Medium**
+- [ ] **118.** [702] Search in a Sorted Array of Unknown Size — **Medium**
+- [ ] **119.** [704] Binary Search — **Easy**
+- [ ] **120.** [719] Find K-th Smallest Pair Distance — **Hard**
+- [ ] **121.** [744] Find Smallest Letter Greater Than Target — **Easy**
+
+## 122. Sorting & Intervals
+
+- [ ] **122.** [164] Maximum Gap — **Medium**
+- [ ] **123.** [179] Largest Number — **Medium**
+- [ ] **124.** [252] Meeting Rooms — **Easy**
+- [ ] **125.** [253] Meeting Rooms II — **Medium**
+- [ ] **126.** [435] Non-overlapping Intervals — **Medium**
+- [ ] **127.** [436] Find Right Interval — **Medium**
+- [ ] **128.** [452] Minimum Number of Arrows to Burst Balloons — **Medium**
+- [ ] **129.** [646] Maximum Length of Pair Chain — **Medium**
+- [ ] **130.** [870] Advantage Shuffle — **Medium**
+- [ ] **131.** [905] Sort Array By Parity — **Easy**
+- [ ] **132.** [912] Sort an Array — **Medium**
+- [ ] **133.** [945] Minimum Increment to Make Array Unique — **Medium**
+
+## 134. Linked List
+
+- [ ] **134.** [2] Add Two Numbers — **Medium**
+- [ ] **135.** [19] Remove Nth Node From End of List — **Medium**
+- [ ] **136.** [21] Merge Two Sorted Lists — **Easy**
+- [ ] **137.** [23] Merge k Sorted Lists — **Hard**
+- [ ] **138.** [24] Swap Nodes in Pairs — **Medium**
+- [ ] **139.** [25] Reverse Nodes in k-Group — **Hard**
+- [ ] **140.** [61] Rotate List — **Medium**
+- [ ] **141.** [82] Remove Duplicates from Sorted List II — **Medium**
+- [ ] **142.** [83] Remove Duplicates from Sorted List — **Easy**
+- [ ] **143.** [86] Partition List — **Medium**
+- [ ] **144.** [92] Reverse Linked List II — **Medium**
+- [ ] **145.** [138] Copy List with Random Pointer — **Medium**
+- [ ] **146.** [141] Linked List Cycle — **Easy**
+- [ ] **147.** [142] Linked List Cycle II — **Medium**
+- [ ] **148.** [143] Reorder List — **Medium**
+- [ ] **149.** [146] LRU Cache — **Medium**
+- [ ] **150.** [148] Sort List — **Medium**
+- [ ] **151.** [160] Intersection of Two Linked Lists — **Easy**
+- [ ] **152.** [206] Reverse Linked List — **Easy**
+- [ ] **153.** [234] Palindrome Linked List — **Easy**
+- [ ] **154.** [237] Delete Node in a Linked List — **Medium**
+- [ ] **155.** [328] Odd Even Linked List — **Medium**
+- [ ] **156.** [369] Plus One Linked List — **Medium**
+- [ ] **157.** [430] Flatten a Multilevel Doubly Linked List — **Medium**
+- [ ] **158.** [707] Design Linked List — **Medium**
+
+## 159. Stack & Queue
+
+- [ ] **159.** [32] Longest Valid Parentheses — **Hard**
+- [ ] **160.** [84] Largest Rectangle in Histogram — **Hard**
+- [ ] **161.** [85] Maximal Rectangle — **Hard**
+- [ ] **162.** [150] Evaluate Reverse Polish Notation — **Medium**
+- [ ] **163.** [155] Min Stack — **Medium**
+- [ ] **164.** [225] Implement Stack using Queues — **Easy**
+- [ ] **165.** [232] Implement Queue using Stacks — **Easy**
+- [ ] **166.** [316] Remove Duplicate Letters — **Medium**
+- [ ] **167.** [385] Mini Parser — **Medium**
+- [ ] **168.** [496] Next Greater Element I — **Easy**
+- [ ] **169.** [503] Next Greater Element II — **Medium**
+- [ ] **170.** [678] Valid Parenthesis String — **Medium**
+- [ ] **171.** [716] Max Stack — **Hard**
+- [ ] **172.** [739] Daily Temperatures — **Medium**
+- [ ] **173.** [856] Score of Parentheses — **Medium**
+- [ ] **174.** [862] Shortest Subarray with Sum at Least K — **Hard**
+- [ ] **175.** [895] Maximum Frequency Stack — **Hard**
+- [ ] **176.** [901] Online Stock Span — **Medium**
+- [ ] **177.** [946] Validate Stack Sequences — **Medium**
+- [ ] **178.** [1003] Check If Word Is Valid After Substitutions — **Medium**
+- [ ] **179.** [1670] Design Front Middle Back Queue — **Medium**
+- [ ] **180.** [2390] Removing Stars From a String — **Medium**
+
+## 181. Trees & BST
+
+- [ ] **181.** [94] Binary Tree Inorder Traversal — **Easy**
+- [ ] **182.** [95] Unique Binary Search Trees II — **Medium**
+- [ ] **183.** [96] Unique Binary Search Trees — **Medium**
+- [ ] **184.** [98] Validate Binary Search Tree — **Medium**
+- [ ] **185.** [99] Recover Binary Search Tree — **Medium**
+- [ ] **186.** [100] Same Tree — **Easy**
+- [ ] **187.** [101] Symmetric Tree — **Easy**
+- [ ] **188.** [102] Binary Tree Level Order Traversal — **Medium**
+- [ ] **189.** [103] Binary Tree Zigzag Level Order Traversal — **Medium**
+- [ ] **190.** [104] Maximum Depth of Binary Tree — **Easy**
+- [ ] **191.** [105] Construct Binary Tree from Preorder and Inorder Traversal — **Medium**
+- [ ] **192.** [106] Construct Binary Tree from Inorder and Postorder Traversal — **Medium**
+- [ ] **193.** [107] Binary Tree Level Order Traversal II — **Medium**
+- [ ] **194.** [108] Convert Sorted Array to Binary Search Tree — **Easy**
+- [ ] **195.** [109] Convert Sorted List to Binary Search Tree — **Medium**
+- [ ] **196.** [110] Balanced Binary Tree — **Easy**
+- [ ] **197.** [111] Minimum Depth of Binary Tree — **Easy**
+- [ ] **198.** [112] Path Sum — **Easy**
+- [ ] **199.** [113] Path Sum II — **Medium**
+- [ ] **200.** [114] Flatten Binary Tree to Linked List — **Medium**
+- [ ] **201.** [116] Populating Next Right Pointers in Each Node — **Medium**
+- [ ] **202.** [117] Populating Next Right Pointers in Each Node II — **Medium**
+- [ ] **203.** [124] Binary Tree Maximum Path Sum — **Hard**
+- [ ] **204.** [144] Binary Tree Preorder Traversal — **Easy**
+- [ ] **205.** [145] Binary Tree Postorder Traversal — **Easy**
+- [ ] **206.** [156] Binary Tree Upside Down — **Medium**
+- [ ] **207.** [173] Binary Search Tree Iterator — **Medium**
+- [ ] **208.** [199] Binary Tree Right Side View — **Medium**
+- [ ] **209.** [222] Count Complete Tree Nodes — **Medium**
+- [ ] **210.** [226] Invert Binary Tree — **Easy**
+- [ ] **211.** [230] Kth Smallest Element in a BST — **Medium**
+- [ ] **212.** [235] Lowest Common Ancestor of a Binary Search Tree — **Medium**
+- [ ] **213.** [236] Lowest Common Ancestor of a Binary Tree — **Medium**
+- [ ] **214.** [257] Binary Tree Paths — **Easy**
+- [ ] **215.** [270] Closest Binary Search Tree Value — **Easy**
+- [ ] **216.** [285] Inorder Successor in BST — **Medium**
+- [ ] **217.** [297] Serialize and Deserialize Binary Tree — **Hard**
+- [ ] **218.** [298] Binary Tree Longest Consecutive Sequence — **Medium**
+- [ ] **219.** [333] Largest BST Subtree — **Medium**
+- [ ] **220.** [337] House Robber III — **Medium**
+- [ ] **221.** [366] Find Leaves of Binary Tree — **Medium**
+- [ ] **222.** [404] Sum of Left Leaves — **Easy**
+- [ ] **223.** [426] Convert Binary Search Tree to Sorted Doubly Linked List — **Medium**
+- [ ] **224.** [449] Serialize and Deserialize BST — **Medium**
+- [ ] **225.** [450] Delete Node in a BST — **Medium**
+- [ ] **226.** [501] Find Mode in Binary Search Tree — **Easy**
+- [ ] **227.** [508] Most Frequent Subtree Sum — **Medium**
+- [ ] **228.** [510] Inorder Successor in BST II — **Medium**
+- [ ] **229.** [513] Find Bottom Left Tree Value — **Medium**
+- [ ] **230.** [543] Diameter of Binary Tree — **Easy**
+- [ ] **231.** [545] Boundary of Binary Tree — **Medium**
+- [ ] **232.** [572] Subtree of Another Tree — **Easy**
+- [ ] **233.** [617] Merge Two Binary Trees — **Easy**
+- [ ] **234.** [654] Maximum Binary Tree — **Medium**
+- [ ] **235.** [669] Trim a Binary Search Tree — **Medium**
+
+## 236. Heap & Priority Queue
+
+- [ ] **236.** [215] Kth Largest Element in an Array — **Medium**
+- [ ] **237.** [347] Top K Frequent Elements — **Medium**
+- [ ] **238.** [355] Design Twitter — **Medium**
+- [ ] **239.** [373] Find K Pairs with Smallest Sums — **Medium**
+- [ ] **240.** [378] Kth Smallest Element in a Sorted Matrix — **Medium**
+- [ ] **241.** [480] Sliding Window Median — **Hard**
+- [ ] **242.** [502] IPO — **Hard**
+- [ ] **243.** [632] Smallest Range Covering Elements from K Lists — **Hard**
+- [ ] **244.** [692] Top K Frequent Words — **Medium**
+- [ ] **245.** [703] Kth Largest Element in a Stream — **Easy**
+- [ ] **246.** [857] Minimum Cost to Hire K Workers — **Hard**
+- [ ] **247.** [973] K Closest Points to Origin — **Medium**
+- [ ] **248.** [1046] Last Stone Weight — **Easy**
+- [ ] **249.** [2462] Total Cost to Hire K Workers — **Medium**
+
+## 250. Graphs
+
+- [ ] **250.** [127] Word Ladder — **Hard**
+- [ ] **251.** [133] Clone Graph — **Medium**
+- [ ] **252.** [200] Number of Islands — **Medium**
+- [ ] **253.** [207] Course Schedule — **Medium**
+- [ ] **254.** [210] Course Schedule II — **Medium**
+- [ ] **255.** [261] Graph Valid Tree — **Medium**
+- [ ] **256.** [269] Alien Dictionary — **Hard**
+- [ ] **257.** [277] Find the Celebrity — **Medium**
+- [ ] **258.** [310] Minimum Height Trees — **Medium**
+- [ ] **259.** [323] Number of Connected Components in an Undirected Graph — **Medium**
+- [ ] **260.** [399] Evaluate Division — **Medium**
+- [ ] **261.** [433] Minimum Genetic Mutation — **Medium**
+- [ ] **262.** [547] Number of Provinces — **Medium**
+- [ ] **263.** [684] Redundant Connection — **Medium**
+- [ ] **264.** [685] Redundant Connection II — **Hard**
+- [ ] **265.** [743] Network Delay Time — **Medium**
+- [ ] **266.** [752] Open the Lock — **Medium**
+- [ ] **267.** [785] Is Graph Bipartite? — **Medium**
+- [ ] **268.** [787] Cheapest Flights Within K Stops — **Medium**
+- [ ] **269.** [797] All Paths From Source to Target — **Medium**
+- [ ] **270.** [802] Find Eventual Safe States — **Medium**
+- [ ] **271.** [815] Bus Routes — **Hard**
+- [ ] **272.** [841] Keys and Rooms — **Medium**
+- [ ] **273.** [847] Shortest Path Visiting All Nodes — **Hard**
+- [ ] **274.** [864] Shortest Path to Get All Keys — **Hard**
+- [ ] **275.** [886] Possible Bipartition — **Medium**
+- [ ] **276.** [909] Snakes and Ladders — **Medium**
+- [ ] **277.** [934] Shortest Bridge — **Medium**
+- [ ] **278.** [947] Most Stones Removed with Same Row or Column — **Medium**
+- [ ] **279.** [959] Regions Cut By Slashes — **Medium**
+- [ ] **280.** [990] Satisfiability of Equality Equations — **Medium**
+- [ ] **281.** [997] Find the Town Judge — **Easy**
+- [ ] **282.** [1020] Number of Enclaves — **Medium**
+- [ ] **283.** [1036] Escape a Large Maze — **Hard**
+- [ ] **284.** [1042] Flower Planting With No Adjacent — **Medium**
+- [ ] **285.** [1101] The Earliest Moment When Everyone Become Friends — **Medium**
+- [ ] **286.** [1129] Shortest Path with Alternating Colors — **Medium**
+- [ ] **287.** [1135] Connecting Cities With Minimum Cost — **Medium**
+- [ ] **288.** [1136] Parallel Courses — **Medium**
+- [ ] **289.** [1192] Critical Connections in a Network — **Hard**
+
+## 290. Backtracking & Recursion
+
+- [ ] **290.** [17] Letter Combinations of a Phone Number — **Medium**
+- [ ] **291.** [22] Generate Parentheses — **Medium**
+- [ ] **292.** [37] Sudoku Solver — **Hard**
+- [ ] **293.** [39] Combination Sum — **Medium**
+- [ ] **294.** [40] Combination Sum II — **Medium**
+- [ ] **295.** [46] Permutations — **Medium**
+- [ ] **296.** [47] Permutations II — **Medium**
+- [ ] **297.** [51] N-Queens — **Hard**
+- [ ] **298.** [52] N-Queens II — **Hard**
+- [ ] **299.** [77] Combinations — **Medium**
+- [ ] **300.** [78] Subsets — **Medium**
+- [ ] **301.** [79] Word Search — **Medium**
+- [ ] **302.** [89] Gray Code — **Medium**
+- [ ] **303.** [90] Subsets II — **Medium**
+- [ ] **304.** [216] Combination Sum III — **Medium**
+- [ ] **305.** [254] Factor Combinations — **Medium**
+- [ ] **306.** [291] Word Pattern II — **Medium**
+- [ ] **307.** [301] Remove Invalid Parentheses — **Hard**
+- [ ] **308.** [306] Additive Number — **Medium**
+- [ ] **309.** [698] Partition to K Equal Sum Subsets — **Medium**
+
+## 310. Greedy
+
+- [ ] **310.** [45] Jump Game II — **Medium**
+- [ ] **311.** [55] Jump Game — **Medium**
+- [ ] **312.** [134] Gas Station — **Medium**
+- [ ] **313.** [135] Candy — **Hard**
+- [ ] **314.** [330] Patching Array — **Hard**
+- [ ] **315.** [376] Wiggle Subsequence — **Medium**
+- [ ] **316.** [455] Assign Cookies — **Easy**
+- [ ] **317.** [621] Task Scheduler — **Medium**
+- [ ] **318.** [630] Course Schedule III — **Hard**
+- [ ] **319.** [649] Dota2 Senate — **Medium**
+- [ ] **320.** [714] Best Time to Buy and Sell Stock with Transaction Fee — **Medium**
+- [ ] **321.** [763] Partition Labels — **Medium**
+- [ ] **322.** [846] Hand of Straights — **Medium**
+
+## 323. Dynamic Programming
+
+- [ ] **323.** [62] Unique Paths — **Medium**
+- [ ] **324.** [63] Unique Paths II — **Medium**
+- [ ] **325.** [64] Minimum Path Sum — **Medium**
+- [ ] **326.** [70] Climbing Stairs — **Easy**
+- [ ] **327.** [72] Edit Distance — **Medium**
+- [ ] **328.** [91] Decode Ways — **Medium**
+- [ ] **329.** [97] Interleaving String — **Medium**
+- [ ] **330.** [115] Distinct Subsequences — **Hard**
+- [ ] **331.** [120] Triangle — **Medium**
+- [ ] **332.** [123] Best Time to Buy and Sell Stock III — **Hard**
+- [ ] **333.** [131] Palindrome Partitioning — **Medium**
+- [ ] **334.** [139] Word Break — **Medium**
+- [ ] **335.** [140] Word Break II — **Hard**
+- [ ] **336.** [152] Maximum Product Subarray — **Medium**
+- [ ] **337.** [174] Dungeon Game — **Hard**
+- [ ] **338.** [188] Best Time to Buy and Sell Stock IV — **Hard**
+- [ ] **339.** [198] House Robber — **Medium**
+- [ ] **340.** [213] House Robber II — **Medium**
+- [ ] **341.** [221] Maximal Square — **Medium**
+- [ ] **342.** [256] Paint House — **Medium**
+- [ ] **343.** [264] Ugly Number II — **Medium**
+- [ ] **344.** [265] Paint House II — **Hard**
+- [ ] **345.** [276] Paint Fence — **Medium**
+- [ ] **346.** [279] Perfect Squares — **Medium**
+- [ ] **347.** [300] Longest Increasing Subsequence — **Medium**
+- [ ] **348.** [309] Best Time to Buy and Sell Stock with Cooldown — **Medium**
+- [ ] **349.** [312] Burst Balloons — **Hard**
+- [ ] **350.** [322] Coin Change — **Medium**
+- [ ] **351.** [354] Russian Doll Envelopes — **Hard**
+- [ ] **352.** [368] Largest Divisible Subset — **Medium**
+- [ ] **353.** [377] Combination Sum IV — **Medium**
+- [ ] **354.** [403] Frog Jump — **Hard**
+- [ ] **355.** [416] Partition Equal Subset Sum — **Medium**
+- [ ] **356.** [474] Ones and Zeroes — **Medium**
+- [ ] **357.** [486] Predict the Winner — **Medium**
+- [ ] **358.** [494] Target Sum — **Medium**
+- [ ] **359.** [518] Coin Change II — **Medium**
+- [ ] **360.** [527] Word Abbreviation — **Hard**
+- [ ] **361.** [552] Student Attendance Record II — **Hard**
+- [ ] **362.** [568] Maximum Vacation Days — **Hard**
+- [ ] **363.** [583] Delete Operation for Two Strings — **Medium**
+- [ ] **364.** [629] K Inverse Pairs Array — **Hard**
+- [ ] **365.** [638] Shopping Offers — **Medium**
+- [ ] **366.** [650] 2 Keys Keyboard — **Medium**
+- [ ] **367.** [651] 4 Keys Keyboard — **Medium**
+- [ ] **368.** [664] Strange Printer — **Hard**
+- [ ] **369.** [688] Knight Probability in Chessboard — **Medium**
+- [ ] **370.** [712] Minimum ASCII Delete Sum for Two Strings — **Medium**
+- [ ] **371.** [718] Maximum Length of Repeated Subarray — **Medium**
+- [ ] **372.** [740] Delete and Earn — **Medium**
+- [ ] **373.** [790] Domino and Tromino Tiling — **Medium**
+- [ ] **374.** [799] Champagne Tower — **Medium**
+- [ ] **375.** [808] Soup Servings — **Medium**
+- [ ] **376.** [813] Largest Sum of Averages — **Medium**
+- [ ] **377.** [818] Race Car — **Hard**
+- [ ] **378.** [838] Push Dominoes — **Medium**
+- [ ] **379.** [887] Super Egg Drop — **Hard**
+
+## 380. Bit Manipulation
+
+- [ ] **380.** [190] Reverse Bits — **Easy**
+- [ ] **381.** [191] Number of 1 Bits — **Easy**
+- [ ] **382.** [201] Bitwise AND of Numbers Range — **Medium**
+- [ ] **383.** [231] Power of Two — **Easy**
+- [ ] **384.** [371] Sum of Two Integers — **Medium**
+- [ ] **385.** [461] Hamming Distance — **Easy**
+- [ ] **386.** [476] Number Complement — **Easy**
+
+## 387. Math & Number Theory
+
+- [ ] **387.** [7] Reverse Integer — **Medium**
+- [ ] **388.** [29] Divide Two Integers — **Medium**
+- [ ] **389.** [50] Pow(x, n) — **Medium**
+- [ ] **390.** [65] Valid Number — **Hard**
+- [ ] **391.** [172] Factorial Trailing Zeroes — **Medium**
+- [ ] **392.** [202] Happy Number — **Easy**
+- [ ] **393.** [258] Add Digits — **Easy**
+- [ ] **394.** [263] Ugly Number — **Easy**
+- [ ] **395.** [326] Power of Three — **Easy**
+
+## 396. Trie, Design & Advanced Data Structures
+
+- [ ] **396.** [208] Implement Trie (Prefix Tree) — **Medium**
+- [ ] **397.** [211] Design Add and Search Words Data Structure — **Medium**
+- [ ] **398.** [212] Word Search II — **Hard**
+- [ ] **399.** [244] Shortest Word Distance II — **Medium**
+- [ ] **400.** [247] Strobogrammatic Number II — **Medium**
+- [ ] **401.** [248] Strobogrammatic Number III — **Hard**
+- [ ] **402.** [251] Flatten 2D Vector — **Medium**
+- [ ] **403.** [284] Peeking Iterator — **Medium**
+- [ ] **404.** [288] Unique Word Abbreviation — **Medium**
+- [ ] **405.** [304] Range Sum Query 2D - Immutable — **Medium**
+- [ ] **406.** [307] Range Sum Query - Mutable — **Medium**
+- [ ] **407.** [308] Range Sum Query 2D - Mutable — **Medium**
+- [ ] **408.** [311] Sparse Matrix Multiplication — **Medium**
+- [ ] **409.** [318] Maximum Product of Word Lengths — **Medium**
+- [ ] **410.** [346] Moving Average from Data Stream — **Easy**
 ---
+## 🏁 Completion Tracker
 
-## 1. Basic Math
-
-- [ ] **Q001. Count Digits**
-- [ ] **Q002. Reverse Integer**
-- [ ] **Q003. Palindrome Number**
-- [ ] **Q004. Armstrong Number**
-- [ ] **Q005. GCD / HCF**
-- [ ] **Q006. LCM**
-- [ ] **Q007. Prime Number**
-- [ ] **Q008. Divisors of Number**
-- [ ] **Q009. Sieve of Eratosthenes**
-- [ ] **Q010. Fast Exponentiation**
-- [ ] **Q011. Modular Arithmetic**
-- [ ] **Q012. Trailing Zeroes in Factorial**
-## 2. Arrays
-
-- [x] **Q013. Two Sum** 
-- [x] **Q014. Find Missing Number** 
-- [x] **Q015. Move Zeroes** 
-- [x] **Q016. Maximum Consecutive Ones** 
-- [x] **Q017. Remove Duplicates from Sorted Array** 
-- [x] **Q018. Best Time to Buy and Sell Stock**
-- [x] **Q019. Contains Duplicate**
-- [x] **Q020. Plus One**
-- [x] **Q021. Merge Sorted Array**
-- [x] **Q022. Third Maximum Number**
-- [x] **Q023. Rotate Array**
-- [x] **Q024. Product of Array Except Self**
-- [x] **Q025. Set Matrix Zeroes**
-- [x] **Q026. Sort Colors**
-- [x] **Q027. Majority Element II**
-- [x] **Q028. Next Permutation**
-- [X] **Q029. Spiral Matrix**
-- [X] **Q030. Subarray Sum Equals K**
-- [X] **Q031. Jump Game**
-- [X] **Q032. Maximum Product Subarray**
-- [X] **Q033. Kadane's Algorithm**
-- [ ] **Q034. Majority Element**
-- [ ] **Q035. Leaders in an Array**
-- [ ] **Q036. Rearrange Array Alternately**
-- [ ] **Q037. Equilibrium Point**
-- [ ] **Q038. Wave Array**
-- [ ] **Q039. Union of Two Sorted Arrays**
-- [ ] **Q040. Intersection of Two Sorted Arrays**
-- [ ] **Q041. Longest Consecutive Sequence**
-- [ ] **Q042. Count Inversions**
-- [ ] **Q043. Maximum Index**
-- [ ] **Q044. Minimum Number of Jumps**
-- [ ] **Q045. Alternate Positive and Negative Numbers**
-- [ ] **Q046. Rearrange Array Elements by Sign**
-- [ ] **Q047. Chocolate Distribution Problem**
-- [ ] **Q048. Kth Smallest Element**
-- [ ] **Q049. Maximum Circular Subarray Sum**
-- [ ] **Q050. Zero Sum Subarrays**
-- [ ] **Q051. Largest Subarray with 0 Sum**
-- [ ] **Q052. Merge Overlapping Intervals**
-- [ ] **Q053. Insert Interval**
-- [ ] **Q054. Trapping Rain Water**
-- [ ] **Q055. First Missing Positive**
-- [ ] **Q056. Candy**
-- [ ] **Q057. Sliding Window Maximum**
-- [ ] **Q058. Maximum Sum Rectangle**
-## 3. Strings
-
-- [ ] **Q059. Valid Anagram**
-- [ ] **Q060. Reverse String**
-- [ ] **Q061. Valid Palindrome**
-- [ ] **Q062. Longest Common Prefix**
-- [ ] **Q063. Implement strStr()**
-- [ ] **Q064. First Repeated Character**
-- [ ] **Q065. Non Repeating Character**
-- [ ] **Q066. Remove Duplicate Characters**
-- [ ] **Q067. Check if Strings are Rotations**
-- [ ] **Q068. Roman Number to Integer**
-- [ ] **Q069. Implement Atoi**
-- [ ] **Q070. Add Binary Strings**
-- [ ] **Q071. Multiply Two Strings**
-- [ ] **Q072. Group Anagrams**
-- [ ] **Q073. Longest Substring Without Repeating Characters**
-- [ ] **Q074. String Compression**
-- [ ] **Q075. Longest Palindromic Substring**
-- [ ] **Q076. Decode String**
-- [ ] **Q077. Longest K Unique Characters Substring**
-- [ ] **Q078. Smallest Distinct Window**
-- [ ] **Q079. Minimum Window Substring**
-- [ ] **Q080. Wildcard Matching**
-- [ ] **Q081. Regular Expression Matching**
-- [ ] **Q082. KMP Pattern Search**
-- [ ] **Q083. Rabin Karp Algorithm**
-- [ ] **Q084. Z Algorithm**
-- [ ] **Q085. Longest Prefix Suffix**
-- [ ] **Q086. Generate IP Addresses**
-- [ ] **Q087. Word Break**
-- [ ] **Q088. Palindromic Partitioning**
-## 4. Hashing
-
-- [ ] **Q089. Two Sum using Hashing**
-- [ ] **Q090. Happy Number**
-- [ ] **Q091. Contains Duplicate using Hashing**
-- [ ] **Q092. Intersection of Arrays**
-- [ ] **Q093. Frequency of Array Elements**
-- [ ] **Q094. First Repeating Element**
-- [ ] **Q095. First Non-Repeating Element**
-- [ ] **Q096. Count Distinct Elements**
-- [ ] **Q097. Top K Frequent Elements**
-- [ ] **Q098. Longest Consecutive Sequence using Hashing**
-- [ ] **Q099. Group Anagrams using Hashing**
-- [ ] **Q100. Subarray Sum Equals K using Hashing**
-- [ ] **Q101. Count Pairs with Given Sum**
-- [ ] **Q102. Zero Sum Subarrays using Hashing**
-- [ ] **Q103. Largest Subarray with 0 Sum using Hashing**
-- [ ] **Q104. Count of Range Sum**
-- [ ] **Q105. Minimum Window Substring using Hash Map**
-## 5. Sorting
-
-- [ ] **Q106. Bubble Sort**
-- [ ] **Q107. Selection Sort**
-- [ ] **Q108. Insertion Sort**
-- [ ] **Q109. Merge Sort**
-- [ ] **Q110. Quick Sort**
-- [ ] **Q111. Heap Sort**
-- [ ] **Q112. Counting Sort**
-- [ ] **Q113. Radix Sort**
-- [ ] **Q114. Sort 0s 1s and 2s**
-- [ ] **Q115. Minimum Swaps to Sort**
-- [ ] **Q116. Nearly Sorted Array**
-- [ ] **Q117. Merge Three Sorted Arrays**
-- [ ] **Q118. Count Inversions using Merge Sort**
-- [ ] **Q119. Reverse Pairs**
-## 6. Binary Search
-
-- [ ] **Q120. Binary Search**
-- [ ] **Q121. Search Insert Position**
-- [ ] **Q122. Square Root of X**
-- [ ] **Q123. First and Last Occurrence**
-- [ ] **Q124. Count Occurrences in Sorted Array**
-- [ ] **Q125. Floor in a Sorted Array**
-- [ ] **Q126. Ceil in a Sorted Array**
-- [ ] **Q127. Find Peak Element**
-- [ ] **Q128. Koko Eating Bananas**
-- [ ] **Q129. Search in Rotated Sorted Array**
-- [ ] **Q130. Capacity To Ship Packages**
-- [ ] **Q131. Find Minimum in Rotated Sorted Array**
-- [ ] **Q132. Single Element in Sorted Array**
-- [ ] **Q133. Kth Missing Positive Number**
-- [ ] **Q134. Allocate Minimum Pages**
-- [ ] **Q135. Aggressive Cows**
-- [ ] **Q136. Painter's Partition Problem**
-- [ ] **Q137. Median of Two Sorted Arrays**
-- [ ] **Q138. Split Array Largest Sum**
-# Phase 2: Core Interview Patterns
-
----
-
-## 7. Two Pointers
-
-- [ ] **Q139. Reverse String using Two Pointers**
-- [ ] **Q140. Remove Duplicates using Two Pointers**
-- [ ] **Q141. Move Zeroes using Two Pointers**
-- [ ] **Q142. Pair with Given Sum in Sorted Array**
-- [ ] **Q143. Segregate 0s and 1s**
-- [ ] **Q144. Sort Colors using Two Pointers**
-- [ ] **Q145. 3Sum**
-- [ ] **Q146. Container With Most Water**
-- [ ] **Q147. Count Triplets with Given Sum**
-- [ ] **Q148. 3Sum Closest**
-- [ ] **Q149. Minimum Difference Pair**
-- [ ] **Q150. Trapping Rain Water using Two Pointers**
-- [ ] **Q151. 4Sum**
-## 8. Sliding Window
-
-- [ ] **Q152. Maximum Average Subarray**
-- [ ] **Q153. Maximum Sum Subarray of Size K**
-- [ ] **Q154. First Negative in Every Window of Size K**
-- [ ] **Q155. Count Distinct Elements in Every Window**
-- [ ] **Q156. Longest Substring Without Repeating Characters using Window**
-- [ ] **Q157. Fruit Into Baskets**
-- [ ] **Q158. Permutation in String**
-- [ ] **Q159. Longest K Unique Characters Substring using Window**
-- [ ] **Q160. Max Consecutive Ones III**
-- [ ] **Q161. Minimum Size Subarray Sum**
-- [ ] **Q162. Binary Subarray with Sum**
-- [ ] **Q163. Count Number of Nice Subarrays**
-- [ ] **Q164. Character Replacement**
-- [ ] **Q165. Minimum Window Substring using Window**
-- [ ] **Q166. Sliding Window Maximum using Deque**
-## 9. Linked List
-
-- [ ] **Q167. Print Linked List**
-- [ ] **Q168. Count Nodes in Linked List**
-- [ ] **Q169. Search in Linked List**
-- [ ] **Q170. Insert in Middle of Linked List**
-- [ ] **Q171. Delete a Node in Linked List**
-- [ ] **Q172. Reverse Linked List**
-- [ ] **Q173. Middle of Linked List**
-- [ ] **Q174. Linked List Cycle**
-- [ ] **Q175. Length of Loop in Linked List**
-- [ ] **Q176. Remove Loop in Linked List**
-- [ ] **Q177. Nth Node From End**
-- [ ] **Q178. Intersection Point of Two Linked Lists**
-- [ ] **Q179. Merge Two Sorted Linked Lists**
-- [ ] **Q180. Remove Duplicates from Sorted Linked List**
-- [ ] **Q181. Remove Duplicates from Unsorted Linked List**
-- [ ] **Q182. Pairwise Swap Nodes**
-- [ ] **Q183. Add Two Numbers**
-- [ ] **Q184. Add One to a Linked List Number**
-- [ ] **Q185. Palindrome Linked List**
-- [ ] **Q186. Reorder List**
-- [ ] **Q187. Remove Nth Node From End**
-- [ ] **Q188. Rotate Linked List**
-- [ ] **Q189. Reverse Linked List in Groups**
-- [ ] **Q190. Sort Linked List of 0s 1s and 2s**
-- [ ] **Q191. Flattening a Linked List**
-- [ ] **Q192. Clone Linked List with Random Pointer**
-- [ ] **Q193. Merge Sort for Linked List**
-- [ ] **Q194. Merge K Sorted Lists**
-- [ ] **Q195. Reverse Nodes in K Group**
-- [ ] **Q196. LRU Cache**
-## 10. Stack
-
-- [ ] **Q197. Implement Stack Using Array**
-- [ ] **Q198. Stack Using Linked List**
-- [ ] **Q199. Valid Parentheses**
-- [ ] **Q200. Implement Stack Using Queues**
-- [ ] **Q201. Reverse String Using Stack**
-- [ ] **Q202. Insert Element at Bottom of Stack**
-- [ ] **Q203. Reverse a Stack**
-- [ ] **Q204. Sort a Stack**
-- [ ] **Q205. Next Greater Element**
-- [ ] **Q206. Next Smaller Element**
-- [ ] **Q207. Stock Span Problem**
-- [ ] **Q208. Get Minimum Element from Stack**
-- [ ] **Q209. Evaluate Postfix Expression**
-- [ ] **Q210. Infix to Postfix**
-- [ ] **Q211. Daily Temperatures**
-- [ ] **Q212. Asteroid Collision**
-- [ ] **Q213. Decode String using Stack**
-- [ ] **Q214. Celebrity Problem**
-- [ ] **Q215. Largest Rectangle in Histogram**
-- [ ] **Q216. Maximal Rectangle**
-## 11. Queue
-
-- [ ] **Q217. Implement Queue Using Array**
-- [ ] **Q218. Queue Using Linked List**
-- [ ] **Q219. Implement Queue Using Stacks**
-- [ ] **Q220. Circular Queue**
-- [ ] **Q221. Reverse a Queue**
-- [ ] **Q222. Reverse First K Elements of Queue**
-- [ ] **Q223. Generate Binary Numbers**
-- [ ] **Q224. First Non-Repeating Character in a Stream**
-- [ ] **Q225. Number of Recent Calls**
-- [ ] **Q226. Rotting Oranges using Queue**
-- [ ] **Q227. Sliding Window Maximum using Queue**
-## 12. Recursion
-
-- [ ] **Q228. Print 1 to N Without Loop**
-- [ ] **Q229. Print N to 1 Without Loop**
-- [ ] **Q230. Sum of Digits using Recursion**
-- [ ] **Q231. Digital Root**
-- [ ] **Q232. Factorial using Recursion**
-- [ ] **Q233. Fibonacci Number**
-- [ ] **Q234. Power of Two using Recursion**
-- [ ] **Q235. Power Using Recursion**
-- [ ] **Q236. Tower of Hanoi**
-- [ ] **Q237. Josephus Problem**
-- [ ] **Q238. Generate Subsequences**
-- [ ] **Q239. Recursive Bubble Sort**
-- [ ] **Q240. Recursive Insertion Sort**
-- [ ] **Q241. K-th Grammar**
-## 13. Backtracking
-
-- [ ] **Q242. Generate All Binary Strings**
-- [ ] **Q243. Subsets**
-- [ ] **Q244. Subset Sums**
-- [ ] **Q245. Permutations**
-- [ ] **Q246. Permutations of a String**
-- [ ] **Q247. Combination Sum**
-- [ ] **Q248. Combination Sum II**
-- [ ] **Q249. Generate Parentheses**
-- [ ] **Q250. Rat in a Maze**
-- [ ] **Q251. Palindrome Partitioning using Backtracking**
-- [ ] **Q252. Restore IP Addresses**
-- [ ] **Q253. N Queens**
-- [ ] **Q254. Sudoku Solver**
-- [ ] **Q255. Word Search**
-- [ ] **Q256. Word Search II**
-- [ ] **Q257. M Coloring Problem**
-- [ ] **Q258. Knight Tour**
-- [ ] **Q259. Expression Add Operators**
-# Phase 3: Trees and Graphs
-
----
-
-## 14. Binary Trees
-
-- [ ] **Q260. Preorder Traversal**
-- [ ] **Q261. Inorder Traversal**
-- [ ] **Q262. Postorder Traversal**
-- [ ] **Q263. Level Order Traversal**
-- [ ] **Q264. Maximum Depth of Binary Tree**
-- [ ] **Q265. Count Leaves in Binary Tree**
-- [ ] **Q266. Size of Binary Tree**
-- [ ] **Q267. Sum of Binary Tree**
-- [ ] **Q268. Same Tree**
-- [ ] **Q269. Invert Tree**
-- [ ] **Q270. Mirror Tree**
-- [ ] **Q271. Symmetric Tree**
-- [ ] **Q272. Balanced Binary Tree**
-- [ ] **Q273. Diameter of Binary Tree**
-- [ ] **Q274. Left View of Binary Tree**
-- [ ] **Q275. Right View of Binary Tree**
-- [ ] **Q276. Zigzag Traversal**
-- [ ] **Q277. Boundary Traversal**
-- [ ] **Q278. Vertical Order Traversal**
-- [ ] **Q279. Top View of Binary Tree**
-- [ ] **Q280. Bottom View of Binary Tree**
-- [ ] **Q281. Diagonal Traversal**
-- [ ] **Q282. Root to Leaf Paths**
-- [ ] **Q283. Path Sum**
-- [ ] **Q284. Lowest Common Ancestor in Binary Tree**
-- [ ] **Q285. Distance Between Two Nodes**
-- [ ] **Q286. Burning Tree**
-- [ ] **Q287. Maximum Path Sum**
-- [ ] **Q288. Construct Tree from Inorder and Preorder**
-- [ ] **Q289. Serialize and Deserialize Binary Tree**
-## 15. Binary Search Tree
-
-- [ ] **Q290. Search in BST**
-- [ ] **Q291. Insert a Node in BST**
-- [ ] **Q292. Minimum Element in BST**
-- [ ] **Q293. Validate BST**
-- [ ] **Q294. Kth Smallest Element in BST**
-- [ ] **Q295. Kth Largest Element in BST**
-- [ ] **Q296. Floor in BST**
-- [ ] **Q297. Ceil in BST**
-- [ ] **Q298. Lowest Common Ancestor in BST**
-- [ ] **Q299. Two Sum in BST**
-- [ ] **Q300. Delete a Node from BST**
-- [ ] **Q301. Preorder to BST**
-- [ ] **Q302. Merge Two BSTs**
-- [ ] **Q303. Largest BST in Binary Tree**
-- [ ] **Q304. Recover BST**
-## 16. Heap and Priority Queue
-
-- [ ] **Q305. Binary Heap Operations**
-- [ ] **Q306. Heap Sort using Heap**
-- [ ] **Q307. Last Stone Weight**
-- [ ] **Q308. Kth Largest Element**
-- [ ] **Q309. Kth Smallest Element using Heap**
-- [ ] **Q310. K Largest Elements**
-- [ ] **Q311. Top K Frequent Elements using Heap**
-- [ ] **Q312. K Closest Points**
-- [ ] **Q313. Nearly Sorted Array using Heap**
-- [ ] **Q314. Merge K Sorted Arrays**
-- [ ] **Q315. Merge K Sorted Linked Lists**
-- [ ] **Q316. Minimum Cost of Ropes**
-- [ ] **Q317. Rearrange Characters**
-- [ ] **Q318. Smallest Range in K Lists**
-- [ ] **Q319. Task Scheduler**
-- [ ] **Q320. Find Median From Data Stream**
-## 17. Greedy
-
-- [ ] **Q321. Assign Cookies**
-- [ ] **Q322. Lemonade Change**
-- [ ] **Q323. Activity Selection**
-- [ ] **Q324. N Meetings in One Room**
-- [ ] **Q325. Job Sequencing Problem**
-- [ ] **Q326. Fractional Knapsack**
-- [ ] **Q327. Minimum Platforms**
-- [ ] **Q328. Jump Game using Greedy**
-- [ ] **Q329. Minimum Jumps using Greedy**
-- [ ] **Q330. Gas Station**
-- [ ] **Q331. Circular Tour**
-- [ ] **Q332. Police and Thieves**
-- [ ] **Q333. Maximize Sum After K Negations**
-- [ ] **Q334. Choose and Swap**
-- [ ] **Q335. Largest Number Possible**
-- [ ] **Q336. Minimum Number of Coins**
-- [ ] **Q337. Coin Piles**
-- [ ] **Q338. Survive on Island**
-- [ ] **Q339. Water Connection Problem**
-- [ ] **Q340. Candy using Greedy**
-- [ ] **Q341. Minimum Refueling Stops**
-## 18. Graph
-
-- [ ] **Q342. BFS of Graph**
-- [ ] **Q343. DFS of Graph**
-- [ ] **Q344. Find if Path Exists in Graph**
-- [ ] **Q345. Number of Provinces**
-- [ ] **Q346. Number of Islands**
-- [ ] **Q347. Flood Fill Algorithm**
-- [ ] **Q348. Rotting Oranges**
-- [ ] **Q349. Detect Cycle in Undirected Graph**
-- [ ] **Q350. Detect Cycle in Directed Graph**
-- [ ] **Q351. Bipartite Graph**
-- [ ] **Q352. Topological Sort**
-- [ ] **Q353. Kahn's Algorithm**
-- [ ] **Q354. Course Schedule**
-- [ ] **Q355. Clone Graph**
-- [ ] **Q356. Shortest Path in Undirected Graph**
-- [ ] **Q357. Shortest Path in DAG**
-- [ ] **Q358. Dijkstra Algorithm**
-- [ ] **Q359. Shortest Path in Binary Matrix**
-- [ ] **Q360. Path With Minimum Effort**
-- [ ] **Q361. Cheapest Flights Within K Stops**
-- [ ] **Q362. Bellman Ford Algorithm**
-- [ ] **Q363. Floyd Warshall Algorithm**
-- [ ] **Q364. Minimum Spanning Tree**
-- [ ] **Q365. Prim's Algorithm**
-- [ ] **Q366. Kruskal's Algorithm**
-- [ ] **Q367. Word Ladder**
-- [ ] **Q368. Alien Dictionary**
-- [ ] **Q369. Eventual Safe States**
-- [ ] **Q370. Mother Vertex**
-- [ ] **Q371. Strongly Connected Components - Kosaraju**
-- [ ] **Q372. Articulation Points**
-- [ ] **Q373. Bridges in Graph**
-- [ ] **Q374. Euler Circuit**
-- [ ] **Q375. Hamiltonian Path**
-# Phase 4: Advanced DSA
-
----
-
-## 19. Dynamic Programming
-
-- [ ] **Q376. Climbing Stairs**
-- [ ] **Q377. House Robber**
-- [ ] **Q378. Fibonacci using DP**
-- [ ] **Q379. Min Cost Climbing Stairs**
-- [ ] **Q380. Geek Jump**
-- [ ] **Q381. Maximum Sum of Non Adjacent Elements**
-- [ ] **Q382. House Robber II**
-- [ ] **Q383. 0-1 Knapsack**
-- [ ] **Q384. Subset Sum Problem**
-- [ ] **Q385. Perfect Sum Problem**
-- [ ] **Q386. Partition Equal Subset Sum**
-- [ ] **Q387. Minimum Sum Partition**
-- [ ] **Q388. Count Partitions with Given Difference**
-- [ ] **Q389. Target Sum**
-- [ ] **Q390. Coin Change**
-- [ ] **Q391. Minimum Coins**
-- [ ] **Q392. Rod Cutting**
-- [ ] **Q393. Unbounded Knapsack**
-- [ ] **Q394. Longest Common Subsequence**
-- [ ] **Q395. Longest Common Substring**
-- [ ] **Q396. Shortest Common Supersequence**
-- [ ] **Q397. Longest Palindromic Subsequence**
-- [ ] **Q398. Minimum Insertions to Make Palindrome**
-- [ ] **Q399. Edit Distance**
-- [ ] **Q400. Wildcard Pattern Matching using DP**
-
----
-
-#  Final Target
-
-| Level | Target |
-| --- | ---: |
-| Basic | Limited foundation questions |
-| Easy | 100+ |
-| Medium | 180+ |
-| Hard | 50+ |
-| **Total** | **400 Questions** |
-
----
-
-#   How to Solve Every Question
-
-1. Problem ko simple words me samjho.
-2. Input aur output identify karo.
-3. Example ka dry run karo.
-4. Brute force approach socho.
-5. Better approach identify karo.
-6. Optimal approach aur pattern samjho.
-7. Time complexity likho.
-8. Space complexity likho.
-9. Common mistake note karo.
-10. Question ko bina solution dekhe dobara solve karo.
-
----
-
+- [ ] 0–100: Foundation
+- [ ] 101–200: Core interview patterns
+- [ ] 201–300: Medium-heavy placement practice
+- [ ] 301–410: Advanced interview preparation
 #  Revision Rule
 
 - **Day 1:** Solve
