@@ -4,7 +4,7 @@
 
 **Total Questions:** 410  
 **Order:**| Easy | Medium | Hard  |
-**Recommended Language:** C++17  
+**Recommended Language:** C++17   
 **Goal:** Pattern Recognition + Placement + Coding Interviews
 
 # 🚀 410 Days DSA Challenge
